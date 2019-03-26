@@ -1,0 +1,3 @@
+/home/sajal/moodle/Graphics/assgn1/jetpack-joyride/graphics-boilerplate/CMakeFiles/rebuild_cache.dir
+/home/sajal/moodle/Graphics/assgn1/jetpack-joyride/graphics-boilerplate/CMakeFiles/graphics_asgn1.dir
+/home/sajal/moodle/Graphics/assgn1/jetpack-joyride/graphics-boilerplate/CMakeFiles/edit_cache.dir
